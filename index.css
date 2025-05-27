@@ -1,0 +1,37 @@
+* {
+    font-family: "Times New Roman", Arial, Calbri, sans-serif;
+  }
+
+  body {background-color:rgb(230, 224, 217)
+    }
+  h1 {
+    color: rgb(4, 10, 7);
+  }
+  h2 {color:brown}
+  h3 {color:brown}
+  
+  p, 
+  li {
+    font-size: 17px;
+  }
+  
+
+  form {font-size: 17px;
+  text-align: left}
+  
+
+  a {
+    text-decoration: none;
+  }
+  button {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+  }
+
+  footer {text-align: center}
+
+  /*- adjusting to screen size - see sizing */
+
+  @media only screen and (max-width: 480px) {
+    }
